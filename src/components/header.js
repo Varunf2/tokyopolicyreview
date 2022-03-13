@@ -6,27 +6,46 @@ const Header = ({ siteTitle }) => (
   <header
     style={{
       background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
     }}
   >
     <div
       style={{
         margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
+        maxWidth: 1100,
+        padding: `1rem 1rem`,
+        display: `flex`
       }}
     >
-      <h1 style={{ margin: 0 }}>
+      <h2 style={{ margin: 0 }}>
         <Link
           to="/"
           style={{
             color: `white`,
             textDecoration: `none`,
+            fontSize: `1.1rem`
           }}
         >
           {siteTitle}
         </Link>
-      </h1>
+      </h2>
+
+      {/* Navi Items */}
+      <nav style={{ marginLeft: `auto` }}>
+        <ul style={{ 
+            display: `flex`, 
+            alignItems: `center`, 
+            listStyleType: `none`, 
+            color: `white`,
+            margin: 0
+          }}
+        >
+          <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>Home</li>
+          <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>Articles</li>
+          <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>Submit</li>
+          <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>About</li>
+        </ul>
+      </nav>
+
     </div>
   </header>
 )

@@ -1,7 +1,7 @@
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  font: 112.5%/1.45em georgia, serif, sans-serif;
+  font: 112.5%/1.45em "Roboto";
   box-sizing: border-box;
   overflow-y: scroll;
 }
@@ -9,8 +9,8 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: hsla(0, 0%, 0%, 0.8);
-  font-family: georgia, serif;
+  color: rgba(100, 100, 100, 1);
+  font-family: "Roboto";
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -18,6 +18,7 @@ body {
   -ms-font-feature-settings: "kern", "liga", "clig", "calt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
+  background: rgba(248, 249, 250, 1);
 }
 article,
 aside,
@@ -79,14 +80,15 @@ h1 {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 2.4rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  font-weight: bold;
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 700;
   text-rendering: optimizeLegibility;
-  font-size: 2.25rem;
+  font-size: 1.6rem;
   line-height: 1.1;
+  color: rgba(0, 0, 0, 1);
 }
 mark {
   background-color: #ff0;
@@ -255,17 +257,16 @@ h2 {
   margin-right: 0;
   margin-top: 0;
   padding-bottom: 0;
-  padding-left: 0;
-  padding-right: 0;
-  padding-top: 0;
-  margin-bottom: 1.45rem;
+  padding: 0;
+  margin-bottom: 1.8rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  font-weight: bold;
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 700;
   text-rendering: optimizeLegibility;
-  font-size: 1.62671rem;
-  line-height: 1.1;
+  font-size: 1.2rem;
+  line-height: 1.4;
+  color: rgba(0, 0, 0, 1);
 }
 h3 {
   margin-left: 0;
@@ -281,7 +282,7 @@ h3 {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 1.38316rem;
+  font-size: 1rem;
   line-height: 1.1;
 }
 h4 {
@@ -398,6 +399,8 @@ p {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
+  font-size: 0.8rem;
+  line-height: 1.5;
 }
 pre {
   margin-left: 0;
@@ -489,7 +492,7 @@ th {
   font-weight: bold;
 }
 li {
-  margin-bottom: calc(1.45rem / 2);
+  font-size: 0.8rem;
 }
 ol li {
   padding-left: 0;
