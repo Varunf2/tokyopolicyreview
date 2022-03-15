@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: "How does Infrastructure Interact with the Rest of the Economy? A Quantitative Study on ASEAN"
+author: "Febtina Setia Retnani"
+date: "2021-09-25"
 ---
 
 Since its establishment in 1967, the Association of Southeast Asian Nations (ASEAN) has undergone a major transformation into one of the world's fastest-growing economies. With an annual growth rate projected at more than 5.5% per annum, ASEAN is projected to become the world's fourth-largest economy by 2050 (ASEAN, 2017). Taking into account their ambition to become a global economic powerhouse, ASEAN mmber countries decided to pursue deeper economic integration by forming the ASEAN Economic Community (AEC) in 2015. The 2016 master plan document lays out a goal of realizing physically sustainable infrastructure by increasing investment in ASEAN member states. With the existence of adequate infrastructure that connects all countries in the region, it is expected to improve connectivity within the region, drive further economic growth, and facilitate trade and promote global competitiveness.
