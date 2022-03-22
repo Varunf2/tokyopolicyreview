@@ -80,7 +80,7 @@ h1 {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 2.4rem;
+  margin-bottom: 3rem;
   color: inherit;
   font-family: "Roboto Slab";
   font-style: normal;
@@ -281,8 +281,9 @@ h3 {
   font-family: "Roboto Slab";
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   line-height: 1.1;
+  color: black;
 }
 h4 {
   margin-left: 0;
@@ -398,7 +399,7 @@ p {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   line-height: 1.5;
 }
 pre {
@@ -406,7 +407,7 @@ pre {
   margin-right: 0;
   margin-top: 0;
   margin-bottom: 1.45rem;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   line-height: 1.42;
   background: hsla(0, 0%, 0%, 0.04);
   border-radius: 3px;
@@ -491,7 +492,7 @@ th {
   font-weight: bold;
 }
 li {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 ol li {
   padding-left: 0;

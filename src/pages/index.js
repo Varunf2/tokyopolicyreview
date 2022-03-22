@@ -4,85 +4,197 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Submit from "../components/submit"
 import { Link, graphql } from "gatsby"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { linkStrong } from "../components/layout.module.css"
 
-const IndexPage = ( {data} ) => {
-
-  const posts = data.allMarkdownRemark.nodes
+const IndexPage = ({ data }) => {
+  const firstpost = data.one.nodes[0]
+  const firstpostImage = getImage(firstpost.frontmatter.cover)
+  const posts = data.two.nodes
 
   return (
     <Layout>
       <Seo title="Home" />
-
-      <div 
-      style = {{
-        maxWidth: `600px`,
-        textAlign: `left`,
-        padding: `10rem 0`
-      }}>
-        <h2 style={{ marginBottom: `1.2rem` }}>How does Infrastructure Interact with the Rest of the Economy? A Quantitative Study on ASEAN</h2>
-        <p  style={{ marginBottom: `1.2rem` }}>Sep. 2021, Febtina Setia Retnani</p>
-        <Link to="/page-2/" className={ linkStrong }>Read More</Link>
-      </div>
+      <section
+        style={{
+          display: `grid`,
+        }}
+      >
+        <GatsbyImage
+          image={firstpostImage}
+          alt={firstpost.frontmatter.cover.id}
+          style={{
+            gridArea: "1/1",
+            placeItems: "center",
+            height: `610px`,
+            filter: `brightness(30%)`,
+          }}
+          layout="fullWidth"
+          formats={["auto", "webp", "avif"]}
+        />
+        <div
+          style={{
+            gridArea: "1/1",
+            position: "relative",
+            display: "grid",
+          }}
+        >
+          <div
+            style={{
+              textAlign: `left`,
+              width: `100%`,
+              maxWidth: 1100,
+              padding: `calc(10rem + 96px) 1rem 10rem 1rem`,
+              margin: `0 auto`,
+            }}
+          >
+            <Link
+              to={firstpost.fields.slug}
+              itemProp="url"
+              style={{ textDecoration: `none` }}
+            >
+              <h2
+                style={{
+                  marginBottom: `1.2rem`,
+                  color: `white`,
+                  width: `60%`,
+                  minWidth: `340px`,
+                }}
+              >
+                {firstpost.frontmatter.title}
+              </h2>
+              <p
+                style={{
+                  marginBottom: `1.2rem`,
+                  color: `rgba(202, 202, 202, 1)`,
+                }}
+              >
+                {firstpost.frontmatter.date}, {firstpost.frontmatter.author}
+              </p>
+              <p className={linkStrong} style={{ color: `white` }}>
+                Read More
+              </p>
+            </Link>
+          </div>
+        </div>
+      </section>
 
       {/* Article */}
-      <div 
-        style = {{
-          textAlign: `left`,
-          background: `rgba(255, 255, 255, 1)`,
-          padding: `4.8rem 0`
-        }}>
-        <h1>Latest Articles</h1>
+      <section style={{ background: `rgba(255, 255, 255, 1)` }}>
+        <div
+          style={{
+            margin: `0 auto`,
+            maxWidth: 1100,
+            padding: `5rem 1rem`,
+            textAlign: `left`,
+          }}
+        >
+          <h1>Latest Articles</h1>
 
-        <ol style={{ listStyle: `none` }}>
-          {posts.map(post => {
-            const title = post.frontmatter.title || post.fields.slug
+          <ol style={{ listStyle: `none`, margin: 0 }}>
+            {posts.map(post => {
+              const image = getImage(post.frontmatter.cover)
 
-            return (
-              <li key={post.id}>
-                <article>
-                  <header>
-                    <h3>
-                      <Link to={"/"} itemProp="url">
-                        <span itemProp="headline">{title}</span>
-                      </Link>
-                    </h3>
-                  </header>
-                  <section>
-                    <p
-                      dangerouslySetInnerHTML={{
-                        __html: post.excerpt,
-                      }}
-                      itemProp="description"
-                    />
-                    <p>{ post.frontmatter.date }</p>
-                    <p>{ post.frontmatter.author }</p>
-                  </section>
-                </article>
-              </li>
-            
-            )})}
-        </ol>
+              return (
+                <li key={post.id} style={{ marginBottom: `1.5rem` }}>
+                  <Link
+                    to={post.fields.slug}
+                    style={{ textDecoration: `none`, color: `inherit` }}
+                  >
+                    <article style={{ display: `flex` }}>
+                      <div style={{ flex: `1` }}>
+                        <header style={{ marginBottom: `0.75rem` }}>
+                          <h3>{post.frontmatter.title}</h3>
+                        </header>
+                        <section>
+                          <p
+                            dangerouslySetInnerHTML={{
+                              __html: post.excerpt,
+                            }}
+                            itemProp="description"
+                            style={{ marginBottom: `0.75rem` }}
+                          />
+                          <p style={{ marginBottom: `0.75rem` }}>
+                            {post.frontmatter.date}, {post.frontmatter.author}
+                          </p>
+                        </section>
+                      </div>
+                      <GatsbyImage
+                        image={image}
+                        alt={post.frontmatter.cover.id}
+                        style={{ maxWidth: `250px`, height: `170px` }}
+                      />
+                    </article>
+                  </Link>
+                </li>
+              )
+            })}
+          </ol>
 
-        <Link to="/page-2/" className={ linkStrong }>View More</Link>
-      
-      </div>
+          <Link to="/page-2/" className={linkStrong}>
+            View More
+          </Link>
+        </div>
+      </section>
 
-      <Submit/>
+      <Submit />
     </Layout>
   )
 }
 
 export const pageQuery = graphql`
-  query{
-    allMarkdownRemark {
+  query {
+    one: allMarkdownRemark(
+      limit: 1
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
       nodes {
-        id
-        excerpt(pruneLength: 250)
+        fields {
+          slug
+        }
         frontmatter {
           title
           author
           date(formatString: "MMM DD YYYY")
+          cover {
+            id
+            childImageSharp {
+              gatsbyImageData(
+                width: 1500
+                placeholder: BLURRED
+                tracedSVGOptions: { blackOnWhite: true }
+              )
+            }
+          }
+        }
+      }
+    }
+
+    two: allMarkdownRemark(
+      skip: 1
+      limit: 4
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
+      nodes {
+        id
+        excerpt(pruneLength: 250)
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          author
+          date(formatString: "MMM DD YYYY")
+          cover {
+            id
+            childImageSharp {
+              gatsbyImageData(
+                width: 250
+                placeholder: BLURRED
+                tracedSVGOptions: { blackOnWhite: true }
+              )
+            }
+          }
         }
       }
     }

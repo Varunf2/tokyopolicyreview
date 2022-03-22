@@ -26,23 +26,29 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 1100,
-          padding: `0 1rem`,
-        }}
-      >
+      <div>
         <main>{children}</main>
         <footer
           style={{
-            margin: `2.4rem 0`,
-            background: `rebeccapurple`,
+            padding: `0 1rem`,
+            margin: `2.4rem auto`,
+            maxWidth: 1100,
+            display: `flex`,
           }}
         >
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <p style={{ display: `inline-block`, fontSize: `0.8rem` }}>
+            © Tokyo Policy Review {new Date().getFullYear()}
+          </p>
+          <ul
+            style={{
+              marginLeft: `auto`,
+              listStyleType: `none`,
+              display: `flex`,
+            }}
+          >
+            <li style={{ marginLeft: `1rem` }}>aa</li>
+            <li style={{ marginLeft: `1rem` }}>bb</li>
+          </ul>
         </footer>
       </div>
     </>

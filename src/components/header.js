@@ -5,7 +5,10 @@ import { Link } from "gatsby"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `rebeccapurple`,
+      position: `fixed`,
+      color: `white`,
+      width: `100%`,
+      zIndex: 10000,
     }}
   >
     <div
@@ -13,7 +16,7 @@ const Header = ({ siteTitle }) => (
         margin: `0 auto`,
         maxWidth: 1100,
         padding: `1rem 1rem`,
-        display: `flex`
+        display: `flex`,
       }}
     >
       <h2 style={{ margin: 0 }}>
@@ -22,7 +25,7 @@ const Header = ({ siteTitle }) => (
           style={{
             color: `white`,
             textDecoration: `none`,
-            fontSize: `1.1rem`
+            fontSize: `1.1rem`,
           }}
         >
           {siteTitle}
@@ -31,21 +34,31 @@ const Header = ({ siteTitle }) => (
 
       {/* Navi Items */}
       <nav style={{ marginLeft: `auto` }}>
-        <ul style={{ 
-            display: `flex`, 
-            alignItems: `center`, 
-            listStyleType: `none`, 
+        <ul
+          style={{
+            display: `flex`,
+            alignItems: `center`,
+            listStyleType: `none`,
             color: `white`,
-            margin: 0
+            margin: 0,
           }}
         >
-          <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>Home</li>
+          <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>
+            <Link
+              to="/"
+              style={{
+                color: `white`,
+                textDecoration: `none`,
+              }}
+            >
+              Home{" "}
+            </Link>
+          </li>
           <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>Articles</li>
           <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>Submit</li>
           <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>About</li>
         </ul>
       </nav>
-
     </div>
   </header>
 )

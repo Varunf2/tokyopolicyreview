@@ -50,7 +50,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 630,
+              maxWidth: 800,
             },
           },
           `gatsby-remark-copy-linked-files`,
