@@ -66,5 +66,3 @@ If ASEAN is to fulfil its potential as the fourth largest economic bloc and a ke
 One of the efforts that should be made by policymakers is to ensure that infrastructure development is completed according to the predetermined targets and infrastructure built should be integrated with one another. Increasing investment in infrastructure also needs to be carried out given that developing countries in the ASEAN region still have to boost their economies.
 
 In addition, considering that financing is still a challenge for the majority of ASEAN countries, policymakers in the region should also ensure that the construction of large-scale infrastructure projects provide a positive impact on the domestic economy and not undertake them on political motivations to avoid white elephants. Last, but definitely not least, ASEAN countries should also invest in their human capital by improving skills and education, with the ultimate aim of enabling long-term growth and development to benefit the region.
-
----

@@ -80,7 +80,7 @@ h1 {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
   color: inherit;
   font-family: "Roboto Slab";
   font-style: normal;
@@ -255,10 +255,10 @@ textarea {
 h2 {
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
   padding-bottom: 0;
   padding: 0;
-  margin-bottom: 1.8rem;
+  margin-top: 3.6rem;
+  margin-bottom: 1.2rem;
   color: inherit;
   font-family: "Roboto Slab";
   font-style: normal;
@@ -283,7 +283,7 @@ h3 {
   text-rendering: optimizeLegibility;
   font-size: 0.9rem;
   line-height: 1.1;
-  color: #010e26;
+  color: #1e1e1e;
 }
 h4 {
   margin-left: 0;

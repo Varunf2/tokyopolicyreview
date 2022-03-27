@@ -10,10 +10,10 @@ const LinkStrong = ({ to, script, color, placing }) => {
       to={to}
       itemProp="url"
       style={{
-        textDecoration: `none`,
         display: `inline-flex`,
         justifyContent: placing,
         position: `relative,`,
+        textDecorationColor: color,
       }}
       className={hoveranime}
     >

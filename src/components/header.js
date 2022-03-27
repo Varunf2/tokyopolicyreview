@@ -2,11 +2,11 @@ import * as React from "react"
 import PropTypes from "prop-types"
 import { Link } from "gatsby"
 
-const Header = ({ siteTitle }) => (
+const Header = ({ siteTitle, color }) => (
   <header
     style={{
       position: `absolute`,
-      color: `white`,
+      color: color,
       width: `100%`,
       zIndex: 10000,
     }}
@@ -23,9 +23,9 @@ const Header = ({ siteTitle }) => (
         <Link
           to="/"
           style={{
-            color: `white`,
             textDecoration: `none`,
             fontSize: `1.1rem`,
+            color: color,
           }}
         >
           {siteTitle}
@@ -39,7 +39,6 @@ const Header = ({ siteTitle }) => (
             display: `flex`,
             alignItems: `center`,
             listStyleType: `none`,
-            color: `white`,
             margin: 0,
           }}
         >
@@ -47,15 +46,34 @@ const Header = ({ siteTitle }) => (
             <Link
               to="/"
               style={{
-                color: `white`,
+                color: color,
                 textDecoration: `none`,
               }}
+              activeStyle={{
+                color: color,
+                textDecoration: "underline",
+              }}
             >
-              Home{" "}
+              Home
             </Link>
           </li>
-          <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>Articles</li>
-          <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>Submit</li>
+          <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>
+            <Link
+              to="/articles/"
+              style={{
+                color: color,
+                textDecoration: `none`,
+              }}
+              activeStyle={{
+                color: color,
+                textDecoration: "underline",
+              }}
+            >
+              Articles
+            </Link>
+          </li>
+          {/* <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>Submit</li> */}
+          {/* <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>About</li> */}
         </ul>
       </nav>
     </div>

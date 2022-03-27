@@ -10,7 +10,7 @@ const Submit = () => (
       textAlign: `center`,
     }}
   >
-    <h1>Submit Your Articles</h1>
+    <h1 style={{ marginBottom: `3rem` }}>Submit Your Articles</h1>
     <p style={{ marginBottom: `2.4rem`, padding: 0, textAlign: `left` }}>
       Introduction comes here. Lorem ipsum dolor sit amet, consectetur
       adipiscing elit. Ut bibendum leo congue sem interdum, eu commodo enim
@@ -21,7 +21,7 @@ const Submit = () => (
     <LinkStrong
       to="/page-2/"
       script="Contact Us"
-      color="#010E26"
+      color="#1E1E1E"
       placing="center"
     />
   </div>

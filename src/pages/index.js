@@ -17,7 +17,7 @@ const IndexPage = ({ data }) => {
   const posts = data.two.nodes
 
   return (
-    <Layout>
+    <Layout color="white">
       <Seo title="Home" />
       <section
         style={{
@@ -60,7 +60,7 @@ const IndexPage = ({ data }) => {
               >
                 <h2
                   style={{
-                    marginBottom: `1.2rem`,
+                    marginTop: 0,
                     color: `white`,
                     width: `60%`,
                     minWidth: `340px`,
@@ -99,7 +99,7 @@ const IndexPage = ({ data }) => {
             textAlign: `left`,
           }}
         >
-          <h1>Latest Articles</h1>
+          <h1 style={{ marginBottom: `3rem` }}>Latest Articles</h1>
 
           <ol style={{ listStyle: `none`, margin: 0 }}>
             {posts.map(post => {
@@ -112,7 +112,7 @@ const IndexPage = ({ data }) => {
           <LinkStrong
             to="/articles/"
             script="View More"
-            color="#010e26"
+            color="#1E1E1E"
             placing="left"
           />
         </div>

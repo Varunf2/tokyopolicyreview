@@ -16,14 +16,13 @@ const ArticlesPage = ({ data }) => {
   const posts = data.allMarkdownRemark.nodes
 
   return (
-    <Layout>
+    <Layout color="#1E1E1E">
       <Seo title="Home" />
 
       {/* TOP */}
       <section
         style={{
           display: `grid`,
-          background: `black`,
         }}
       >
         {/* <img
@@ -54,7 +53,7 @@ const ArticlesPage = ({ data }) => {
               margin: `0 auto`,
             }}
           >
-            <h1>Articles</h1>
+            <h1 style={{ marginBottom: `3rem` }}>Articles</h1>
             <p>
               Introduction comes here. Lorem ipsum dolor sit amet, consectetur
               adipiscing elit. Ut bibendum leo congue sem interdum, eu commodo
@@ -76,8 +75,6 @@ const ArticlesPage = ({ data }) => {
             textAlign: `left`,
           }}
         >
-          <h1>Latest Articles</h1>
-
           <ol style={{ listStyle: `none`, margin: 0 }}>
             {posts.map(post => {
               const image = getImage(post.frontmatter.cover)
@@ -93,10 +90,7 @@ const ArticlesPage = ({ data }) => {
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(
-      limit: 10
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       nodes {
         id
         excerpt(pruneLength: 250)
