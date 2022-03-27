@@ -3,9 +3,13 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Submit from "../components/submit"
+import Article from "../components/article"
+import LinkStrong from "../components/linkStrong"
+
 import { Link, graphql } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
-import { linkStrong } from "../components/layout.module.css"
+
+import * as styles from "../components/layout.module.css"
 
 const IndexPage = ({ data }) => {
   const firstpost = data.one.nodes[0]
@@ -44,37 +48,43 @@ const IndexPage = ({ data }) => {
               textAlign: `left`,
               width: `100%`,
               maxWidth: 1100,
-              padding: `calc(10rem + 96px) 1rem 10rem 1rem`,
+              padding: `calc(10rem + 96px) 1rem 0 1rem`,
               margin: `0 auto`,
             }}
           >
-            <Link
-              to={firstpost.fields.slug}
-              itemProp="url"
-              style={{ textDecoration: `none` }}
-            >
-              <h2
-                style={{
-                  marginBottom: `1.2rem`,
-                  color: `white`,
-                  width: `60%`,
-                  minWidth: `340px`,
-                }}
+            <div className={styles.hoveranime}>
+              <Link
+                to={firstpost.fields.slug}
+                itemProp="url"
+                style={{ textDecoration: `none` }}
               >
-                {firstpost.frontmatter.title}
-              </h2>
-              <p
-                style={{
-                  marginBottom: `1.2rem`,
-                  color: `rgba(202, 202, 202, 1)`,
-                }}
-              >
-                {firstpost.frontmatter.date}, {firstpost.frontmatter.author}
-              </p>
-              <p className={linkStrong} style={{ color: `white` }}>
-                Read More
-              </p>
-            </Link>
+                <h2
+                  style={{
+                    marginBottom: `1.2rem`,
+                    color: `white`,
+                    width: `60%`,
+                    minWidth: `340px`,
+                  }}
+                >
+                  {firstpost.frontmatter.title}
+                </h2>
+                <p
+                  style={{
+                    marginBottom: `1.2rem`,
+                    color: `rgba(202, 202, 202, 1)`,
+                  }}
+                >
+                  {firstpost.frontmatter.date}, {firstpost.frontmatter.author}
+                </p>
+
+                <LinkStrong
+                  to={firstpost.fields.slug}
+                  script="Read More"
+                  color="white"
+                  placing="left"
+                />
+              </Link>
+            </div>
           </div>
         </div>
       </section>
@@ -95,45 +105,16 @@ const IndexPage = ({ data }) => {
             {posts.map(post => {
               const image = getImage(post.frontmatter.cover)
 
-              return (
-                <li key={post.id} style={{ marginBottom: `1.5rem` }}>
-                  <Link
-                    to={post.fields.slug}
-                    style={{ textDecoration: `none`, color: `inherit` }}
-                  >
-                    <article style={{ display: `flex` }}>
-                      <div style={{ flex: `1` }}>
-                        <header style={{ marginBottom: `0.75rem` }}>
-                          <h3>{post.frontmatter.title}</h3>
-                        </header>
-                        <section>
-                          <p
-                            dangerouslySetInnerHTML={{
-                              __html: post.excerpt,
-                            }}
-                            itemProp="description"
-                            style={{ marginBottom: `0.75rem` }}
-                          />
-                          <p style={{ marginBottom: `0.75rem` }}>
-                            {post.frontmatter.date}, {post.frontmatter.author}
-                          </p>
-                        </section>
-                      </div>
-                      <GatsbyImage
-                        image={image}
-                        alt={post.frontmatter.cover.id}
-                        style={{ maxWidth: `250px`, height: `170px` }}
-                      />
-                    </article>
-                  </Link>
-                </li>
-              )
+              return <Article post={post} image={image} />
             })}
           </ol>
 
-          <Link to="/page-2/" className={linkStrong}>
-            View More
-          </Link>
+          <LinkStrong
+            to="/articles/"
+            script="View More"
+            color="#010e26"
+            placing="left"
+          />
         </div>
       </section>
 
@@ -160,7 +141,7 @@ export const pageQuery = graphql`
             id
             childImageSharp {
               gatsbyImageData(
-                width: 1500
+                width: 1000
                 placeholder: BLURRED
                 tracedSVGOptions: { blackOnWhite: true }
               )
@@ -189,7 +170,6 @@ export const pageQuery = graphql`
             id
             childImageSharp {
               gatsbyImageData(
-                width: 250
                 placeholder: BLURRED
                 tracedSVGOptions: { blackOnWhite: true }
               )

@@ -5,7 +5,7 @@ import { Link } from "gatsby"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      position: `fixed`,
+      position: `absolute`,
       color: `white`,
       width: `100%`,
       zIndex: 10000,
@@ -56,7 +56,6 @@ const Header = ({ siteTitle }) => (
           </li>
           <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>Articles</li>
           <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>Submit</li>
-          <li style={{ margin: `0 0 0 1.4rem`, fontWeight: 700 }}>About</li>
         </ul>
       </nav>
     </div>

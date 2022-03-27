@@ -1,6 +1,5 @@
 import * as React from "react"
-import { Link } from "gatsby"
-import { linkStrong } from "./layout.module.css"
+import LinkStrong from "./linkStrong"
 
 const Submit = () => (
   <div
@@ -19,9 +18,12 @@ const Submit = () => (
       volutpat eu sapien id vestibulum. Nullam lobortis porta erat, sit amet
       pellentesque ex posuere a.
     </p>
-    <Link to="/page-2/" className={linkStrong}>
-      Contact Us
-    </Link>
+    <LinkStrong
+      to="/page-2/"
+      script="Contact Us"
+      color="#010E26"
+      placing="center"
+    />
   </div>
 )
 
