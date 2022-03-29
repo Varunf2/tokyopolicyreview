@@ -1,22 +1,16 @@
 import * as React from "react"
+import { graphql } from "gatsby"
+import { getImage, StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Article from "../components/article"
-import LinkStrong from "../components/linkStrong"
-
-import { Link, graphql } from "gatsby"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
-
-import * as styles from "../components/layout.module.css"
-
-// import { image } from "../../contents/blog/fonops-in-the-south-china-sea-efficient-deterrence-or-misled-strategy/thomas-park-C57lmA3a5zY-unsplash.jpg"
 
 const ArticlesPage = ({ data }) => {
   const posts = data.allMarkdownRemark.nodes
 
   return (
-    <Layout color="#1E1E1E">
+    <Layout color="white">
       <Seo title="Home" />
 
       {/* TOP */}
@@ -25,8 +19,8 @@ const ArticlesPage = ({ data }) => {
           display: `grid`,
         }}
       >
-        {/* <img
-          src={image}
+        <StaticImage
+          src="../images/steven-su-RTDZpYA8hjs-unsplash.jpg"
           alt="UTokyo Campus"
           style={{
             gridArea: "1/1",
@@ -36,7 +30,8 @@ const ArticlesPage = ({ data }) => {
           }}
           layout="fullWidth"
           formats={["auto", "webp", "avif"]}
-        /> */}
+          placeholder="blurred"
+        />
         <div
           style={{
             gridArea: "1/1",
@@ -47,20 +42,30 @@ const ArticlesPage = ({ data }) => {
           <div
             style={{
               textAlign: `left`,
-              width: `100%`,
               maxWidth: 1100,
               padding: `calc(6rem + 67px) 1rem 6rem 1rem`,
               margin: `0 auto`,
             }}
           >
-            <h1 style={{ marginBottom: `3rem` }}>Articles</h1>
-            <p>
-              Introduction comes here. Lorem ipsum dolor sit amet, consectetur
-              adipiscing elit. Ut bibendum leo congue sem interdum, eu commodo
-              enim molestie. Etiam eu ligula dui. Ut dignissim auctor maximus.
-              Praesent volutpat eu sapien id vestibulum. Nullam lobortis porta
-              erat, sit amet pellentesque ex posuere a.{" "}
-            </p>
+            <div
+              style={{
+                width: `60%`,
+                minWidth: `340px`,
+              }}
+            >
+              <h1 style={{ marginBottom: `3rem`, color: `white` }}>Articles</h1>
+              <p
+                style={{
+                  color: `rgba(202, 202, 202, 1)`,
+                }}
+              >
+                Introduction comes here. Lorem ipsum dolor sit amet, consectetur
+                adipiscing elit. Ut bibendum leo congue sem interdum, eu commodo
+                enim molestie. Etiam eu ligula dui. Ut dignissim auctor maximus.
+                Praesent volutpat eu sapien id vestibulum. Nullam lobortis porta
+                erat, sit amet pellentesque ex posuere a.
+              </p>
+            </div>
           </div>
         </div>
       </section>

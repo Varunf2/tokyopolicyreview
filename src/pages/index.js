@@ -48,7 +48,7 @@ const IndexPage = ({ data }) => {
               textAlign: `left`,
               width: `100%`,
               maxWidth: 1100,
-              padding: `calc(10rem + 96px) 1rem 0 1rem`,
+              padding: `calc(10rem + 65px) 1rem 0 1rem`,
               margin: `0 auto`,
             }}
           >
