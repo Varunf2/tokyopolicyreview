@@ -26,6 +26,7 @@ const Header = ({ siteTitle, color }) => (
             textDecoration: `none`,
             fontSize: `1.1rem`,
             color: color,
+            letterSpacing: `0.05em`,
           }}
         >
           {siteTitle}

@@ -21,7 +21,7 @@ The second problem is that the FONOPs are supposed to be a deterrent to Chinese 
 
 However, this does not mean that FONOPs are ineffective because it still sends a statement towards China and Asia-Pacific that the U.S. and its navy is invested in the region. FONOPs have strategic significance to this end but lack the practical considerations that regional states face on a day-to-day basis. If the U.S.’s main goal is to maintain their relevance in the region and for the rules-based order to be the dominant norm, the U.S. needs to cooperate more with regional states rather than unilaterally conducting FONOPs.
 
-## POLICY RECOMMENDATIONS
+## VIEWS OF SOUTHEAST ASIAN STATES
 
 If the main goal of FONOPs is to ensure the rules-based order as the dominant norm, it needs to be supported by regional states. Norms cannot be unilaterally instituted. The dominant power creates the norms but it is the other states which ensure that the norms are followed (Heritage & Lee 2020). In the case of Asia-Pacific, the current norms are perpetrated by the U.S., but the growing influence of China may give rise to new norms if it is backed by regional states. This is why the perspective of regional states in Southeast Asia (SEA) are important to consider when analyzing the effectiveness of FONOPs.
 

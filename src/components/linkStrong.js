@@ -4,7 +4,6 @@ import { Link } from "gatsby"
 import { hoveranime } from "./layout.module.css"
 
 const LinkStrong = ({ to, script, color, placing }) => {
-  console.log(color)
   return (
     <Link
       to={to}
