@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: `Tokyo Policy Review`,
-    description: `Tokyo Policy Review`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    description: `The Tokyo Policy Review is an independent publication to provide a platform that showcases the best work, insights, and experiences of policy students and professionals. We provide a platform for established and aspiring authors to express their views and work on a broad range of policy areas.`,
+    author: `@hirkame`,
+    siteUrl: `https://tokyopolicyreview.org/`,
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {
