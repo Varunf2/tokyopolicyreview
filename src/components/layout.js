@@ -51,7 +51,10 @@ const Layout = ({ children, color }) => {
             }}
           >
             <li key="linkedin">
-              <a href="https://www.linkedin.com/company/graspp-tokyo-policy-review/about/">
+              <a
+                href="https://www.linkedin.com/company/graspp-tokyo-policy-review/about/"
+                aria-label="Linkedin"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 512 512"
@@ -88,7 +91,10 @@ const Layout = ({ children, color }) => {
               </a>
             </li>
             <li style={{ marginLeft: `1.4rem` }} key="instagram">
-              <a href="https://www.instagram.com/tokyopolicyreview/">
+              <a
+                href="https://www.instagram.com/tokyopolicyreview/"
+                aria-label="Instagram"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 512 512"
@@ -112,7 +118,7 @@ const Layout = ({ children, color }) => {
               </a>
             </li>
             <li style={{ marginLeft: `1.4rem` }} key="twitter">
-              <a href="https://twitter.com/TokyoPolicyRev">
+              <a href="https://twitter.com/TokyoPolicyRev" aria-label="Twitter">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 512 512"
