@@ -18,7 +18,19 @@ const Article = ({ post, image }) => {
         <article style={{ display: `flex`, flexWrap: `wrap-reverse` }}>
           <div style={{ minWidth: 340, flex: 1 }}>
             <header style={{ marginBottom: `0.75rem` }}>
-              <h3>{post.frontmatter.title}</h3>
+              <h1
+                style={{
+                  margin: `0 0 0.6rem 0`,
+                  padding: 0,
+                  fontFamily: "Roboto Slab",
+                  fontWeight: `bold`,
+                  textRendering: `optimizeLegibility`,
+                  fontSize: `0.9rem`,
+                  lineHeight: `1.1`,
+                }}
+              >
+                {post.frontmatter.title}
+              </h1>
             </header>
             <section>
               <p
