@@ -53,17 +53,17 @@ const ArticlesPage = ({ data }) => {
                 minWidth: `340px`,
               }}
             >
-              <h1 style={{ marginBottom: `3rem`, color: `white` }}>Articles</h1>
+              <h1 style={{ marginBottom: `1.5rem`, color: `white` }}>
+                Articles
+              </h1>
               <p
                 style={{
                   color: `rgba(202, 202, 202, 1)`,
                 }}
               >
-                Introduction comes here. Lorem ipsum dolor sit amet, consectetur
-                adipiscing elit. Ut bibendum leo congue sem interdum, eu commodo
-                enim molestie. Etiam eu ligula dui. Ut dignissim auctor maximus.
-                Praesent volutpat eu sapien id vestibulum. Nullam lobortis porta
-                erat, sit amet pellentesque ex posuere a.
+                TPR publishes articles on a variety of policy issues that aim to
+                showcase the best work, insights, and experience of our authors,
+                from within the GraSPP community and beyond!
               </p>
             </div>
           </div>

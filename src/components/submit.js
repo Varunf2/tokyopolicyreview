@@ -13,11 +13,9 @@ const Submit = () => (
   >
     <h1 style={{ marginBottom: `3rem` }}>Submit Your Articles</h1>
     <p style={{ marginBottom: `2.4rem`, padding: 0, textAlign: `left` }}>
-      Introduction comes here. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit. Ut bibendum leo congue sem interdum, eu commodo enim
-      molestie. Etiam eu ligula dui. Ut dignissim auctor maximus. Praesent
-      volutpat eu sapien id vestibulum. Nullam lobortis porta erat, sit amet
-      pellentesque ex posuere a.
+      The Tokyo Policy Review accepts proposals and articles year-round. Please
+      feel free to consult with any of the editors regarding possible topics and
+      timelines for submission.
     </p>
     <a
       href="https://drive.google.com/file/d/102hV4KBnkpJTDAb9AGKKnnZISmDd-GWv/view?usp=sharing"
@@ -41,7 +39,7 @@ const Submit = () => (
           display: `inline-block`,
         }}
       >
-        Contact Us
+        Know More
       </p>
       <span alt="linkIcon" style={{ margin: 0, paddingLeft: `0.5rem` }}>
         <svg
