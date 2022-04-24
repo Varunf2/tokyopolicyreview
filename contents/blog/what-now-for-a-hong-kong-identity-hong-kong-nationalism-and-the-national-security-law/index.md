@@ -45,11 +45,11 @@ It is still uncertain how Hongkongers can walk a fine line in evading legal cons
 
 ## REFERENCES
 1. Antonsich M. and Skey, M. (2017). Introduction: The Persistence of Banal Nationalism. In: Skey, M. and Antonsich, M. eds, Everyday Nationhood: Theorising Culture, Identity, and Belonging after Banal Nationalism. Palgrave Macmillan, 1-13 
-1. Appledaily (2020) 港版國安法︱人大常委會二次審議《國旗法》修正案要求民眾升旗時行注目禮. [online] Available at: https://hk.appledaily.com/local/20201013/53UBLQ5LWVHWVOS4T73JMFNABY/?fbclid=IwAR3grIJfailDfI78-hB5E_1SADJtVsEgfwZSpc6mcOIwgjECXKxn7muZq9Y [Accessed 11 November 2020]
+1. Appledaily (2020) 港版國安法︱人大常委會二次審議《國旗法》修正案要求民眾升旗時行注目禮. [online] Available at: <https://hk.appledaily.com/local/20201013/53UBLQ5LWVHWVOS4T73JMFNABY/?fbclid=IwAR3grIJfailDfI78-hB5E_1SADJtVsEgfwZSpc6mcOIwgjECXKxn7muZq9Y/> [Accessed 11 November 2020]
 1. Billig, M. (1995). Banal Nationalism. London: Sage.
-1. CBC (2012) Hong Kong fears pro-China brainwashing in education. [online] Available at: https://www.cbc.ca/news/world/hong-kong-fears-pro-china-brainwashing-in-education- 1.1296013 [Accessed 14 April 2020] 
-1. Cha, S. (2019) Hong Kong fans boo national anthem ahead of soccer match with China, Reuters, [online] Available at: https://www.reuters.com/article/us-hongkong-protests- china-soccer/hong-kong-fans-boo-national-anthem-ahead-of-soccer-match-with-china- idUSKBN1YM0WF [Accessed 18 December 2020] 
-1. Chau, C. (2020) Hong Kong liberal studies to be renamed and reformed – more China content, less focus on current affairs, [online] Available at: https://hongkongfp.com/2020/11/27/hong-kong-liberal-studies-to-be-renamed-and-reformed-more-china-content-less-focus-on-current-affairs/ [Accessed February 2 2021]
+1. CBC (2012) Hong Kong fears pro-China brainwashing in education. [online] Available at: <https://www.cbc.ca/news/world/hong-kong-fears-pro-china-brainwashing-in-education-1.1296013/> [Accessed 14 April 2020] 
+1. Cha, S. (2019) Hong Kong fans boo national anthem ahead of soccer match with China, Reuters, [online] Available at: <https://www.reuters.com/article/us-hongkong-protests-china-soccer/hong-kong-fans-boo-national-anthem-ahead-of-soccer-match-with-china-idUSKBN1YM0WF/> [Accessed 18 December 2020] 
+1. Chau, C. (2020) Hong Kong liberal studies to be renamed and reformed – more China content, less focus on current affairs, [online] Available at: <https://hongkongfp.com/2020/11/27/hong-kong-liberal-studies-to-be-renamed-and-reformed-more-china-content-less-focus-on-current-affairs/> [Accessed February 2 2021]
 1. Edensor, T. (2002). National identity, popular culture and everyday life. Oxford: Berg. 
 1. Fong, B.C.H. (2017). One country, two nationalisms: Center-periphery relations between Mainland China and Hong Kong 1997-2016. Modern China, 43, pp. 523–556 
 1. Foucault, M. (1975). Discipline and Punish: The Birth of the Prison. New York, Vintage Books
@@ -57,6 +57,6 @@ It is still uncertain how Hongkongers can walk a fine line in evading legal cons
 1. Lo, S.S.H. (2007). ‘The Mainlandization and Recolonization of Hong Kong: A triumph of Convergence over Divergence with Mainland China’, in J.Y.S Cheng (ed) The Hong Kong Administrative Region in its First Decade, Hong Kong: City University Press, pp. 179–231. 
 1. Mathews, G., Lui, T.L., and Ma, E.K.W. (2008). Hong Kong, China: Learning to belong to a nation. London: Routledge. 
 1. McDonald, D.A. (2013) My Voice Is My Weapon: Music, Nationalism, and the Poetics of Palestinian Resistance, Duke University Press 
-1. Stand News (2021)【閹割通識】課程刪「社政參與」　傘運、反送中事例勢絕跡　通識書作者嘆課本淪資料性　非引導探究 Available at: https://www.thestandnews.com/society/閹割通識-課程刪-社政參與-傘運-反送中事例勢絕跡-通識書作者嘆課本淪資料性-非引導探究/ [Accessed February 2 2021]
+1. Stand News (2021)【閹割通識】課程刪「社政參與」　傘運、反送中事例勢絕跡　通識書作者嘆課本淪資料性　非引導探究 Available at: <https://www.thestandnews.com/society/閹割通識-課程刪-社政參與-傘運-反送中事例勢絕跡-通識書作者嘆課本淪資料性-非引導探究/> [Accessed February 2 2021]
 1. Vickers, E. (2003) In Search of an Identity: The Politics of History as a School Subject in Hong Kong, 1960s–2002, Abingdon and New York: Routledge. 
 1. Vickers, E. (2011) Learning to Love the Motherland: 'National Education' in Post- Retrocession Hong Kong. In: Designing History in East Asian Textbooks: Identity Politics and Transnational Aspirations, Routledge (Abingdon) 

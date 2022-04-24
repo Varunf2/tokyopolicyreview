@@ -74,7 +74,7 @@ Third, sufficient safeguards on procedural requirements should be instituted to 
 
 ## References
 1. Beske, G.A., (2002). Shareholder Meetings Online. In: J.F. Olson & C.J. Lawrence, ed. Securities In The Electronic Age: A Practical Guide To The Law And Regulation. 3rd ed. New Jersey: Glasser LegalWorks.
-1. Buellingen, M.C., (2019). Virtual Shareholder Meetings in the U.S. [Online]. Harv-ard Law School Forum on Corporate Governance. [Viewed 10 November 2020]. Available from:https://corpgov.law.harvard.edu/2019/10/10/virtual-shareholder-meetings-in-the-u-s/
+1. Buellingen, M.C., (2019). Virtual Shareholder Meetings in the U.S. [Online]. Harv-ard Law School Forum on Corporate Governance. [Viewed 10 November 2020]. Available from:<https://corpgov.law.harvard.edu/2019/10/10/virtual-shareholder-meetings-in-the-u-s/>
 1. Fiarfax, L.M., (2010). Virtual Shareholder Meetings Reconsidered. Seton Hall Law Review. (Vol.40), pp.1367-1432.
 1. Kanda, H., (2013). The Philosophy of Company Law. Beijing: Law Press China.
 1. Mclean, J., (2013). Sole Discretion Is Too Much Discretion: An Analysis of Delaware’s Online Shareholder Meeting Statutory Model. Kansas Journal of Law & Public Policy. (Vol.23), pp. 203-220.
