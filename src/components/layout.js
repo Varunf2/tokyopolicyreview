@@ -33,11 +33,12 @@ const Layout = ({ children, color }) => {
         <main>{children}</main>
         <footer
           style={{
-            padding: `0 1rem`,
-            margin: `2.4rem auto`,
+            padding: `2.4rem 1rem`,
+            margin: `0 auto`,
             maxWidth: 1100,
             display: `flex`,
             flexWrap: `wrap`,
+            borderTop: `0.07rem solid`,
           }}
         >
           <div
