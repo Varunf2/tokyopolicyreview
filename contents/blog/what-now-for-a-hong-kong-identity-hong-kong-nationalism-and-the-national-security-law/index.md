@@ -44,6 +44,7 @@ It is still uncertain how Hongkongers can walk a fine line in evading legal cons
 ---
 
 ## REFERENCES
+
 1. Antonsich M. and Skey, M. (2017). Introduction: The Persistence of Banal Nationalism. In: Skey, M. and Antonsich, M. eds, Everyday Nationhood: Theorising Culture, Identity, and Belonging after Banal Nationalism. Palgrave Macmillan, 1-13 
 1. Appledaily (2020) 港版國安法︱人大常委會二次審議《國旗法》修正案要求民眾升旗時行注目禮. [online] Available at: <https://hk.appledaily.com/local/20201013/53UBLQ5LWVHWVOS4T73JMFNABY/?fbclid=IwAR3grIJfailDfI78-hB5E_1SADJtVsEgfwZSpc6mcOIwgjECXKxn7muZq9Y/> [Accessed 11 November 2020]
 1. Billig, M. (1995). Banal Nationalism. London: Sage.
