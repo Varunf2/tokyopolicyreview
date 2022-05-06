@@ -66,13 +66,15 @@ Notwithstanding the above, OSM rules should be designed considering the context 
 Third, sufficient safeguards on procedural requirements should be instituted to protect shareholders’ rights. The meeting procedures prescribed by US laws may be too broad to provide the specific protections required for shareholder rights. Policymakers should enacted detailed regulations that offer certainty to both companies and shareholders. The development of such regulation would be a collaborative process between the executive, legislative, and judicial branches. For example, company law can provide that the OSM procedures should at least comply with the regulations enacted by the government and relevant regulators. When shareholders bring suits to courts, judges should rule on whether the OSM’s procedural requirements have been violated based on detailed requirements in regulations or even company law principles. These judicial opinions should, in turn, be reflected in future laws, regulations, and policies. This process will be conducive towards ensuring that policies and regulations can develop considering the real-life experiences of shareholders and companies. 
 
 ## CONCLUSION: ENSURING CORPORATE LAW IS RELEVANT IN THE DIGITAL AGE 
+
 “Too tight to thrive” is not an exaggeration - the legal framework in some countries, including China, are too restrictive towards OSMs. Countries should consider relieving restrictions to offer a “place” (literally and abstractly) for online meetings while safeguarding shareholder interests. As Kanda (2013, p.213) says, “The amendment of company law should be in line with improving competitiveness, embracing IT revolution, and expanding capital market.” As the practices of companies evolve, so too should the laws that govern them. Appropriate governance of OSMs will be a key test of whether laws and regulations can keep up with technological developments in this age of digitization. 
 
 *Rongjie Fang is a master’s candidate at the Graduate School of Public Policy, the University of Tokyo. He earned an LL.B. at Shenzhen University. His main interest is in corporate governance, financial regulation, and law and public policy. He thanks Professor Chenglong Lu and the Editors for their helpful inspiration and feedback on this article.*
 
 ---
 
-## References
+## REFERENCES
+
 1. Beske, G.A., (2002). Shareholder Meetings Online. In: J.F. Olson & C.J. Lawrence, ed. Securities In The Electronic Age: A Practical Guide To The Law And Regulation. 3rd ed. New Jersey: Glasser LegalWorks.
 1. Buellingen, M.C., (2019). Virtual Shareholder Meetings in the U.S. [Online]. Harv-ard Law School Forum on Corporate Governance. [Viewed 10 November 2020]. Available from:<https://corpgov.law.harvard.edu/2019/10/10/virtual-shareholder-meetings-in-the-u-s/>
 1. Fiarfax, L.M., (2010). Virtual Shareholder Meetings Reconsidered. Seton Hall Law Review. (Vol.40), pp.1367-1432.
