@@ -66,3 +66,25 @@ If ASEAN is to fulfil its potential as the fourth largest economic bloc and a ke
 One of the efforts that should be made by policymakers is to ensure that infrastructure development is completed according to the predetermined targets and infrastructure built should be integrated with one another. Increasing investment in infrastructure also needs to be carried out given that developing countries in the ASEAN region still have to boost their economies.
 
 In addition, considering that financing is still a challenge for the majority of ASEAN countries, policymakers in the region should also ensure that the construction of large-scale infrastructure projects provide a positive impact on the domestic economy and not undertake them on political motivations to avoid white elephants. Last, but definitely not least, ASEAN countries should also invest in their human capital by improving skills and education, with the ultimate aim of enabling long-term growth and development to benefit the region.
+
+```text
+Febtina Setia Retnani is a graduate of the University of Tokyo's Graduate School of Public Policy. Before her graduate studies, she has had 5 years of experience with the Indonesia n Financial Services Authority (OJK).  Febtina's professional interests are in financial inclusion and blended finance. 
+```
+
+## REFERENCES
+
+1. Asian Development Bank (ADB). (2017). Meeting Asia's Infrastructure Needs. Manila: ADB.
+1. Asian Development Bank (ADB). (2018). Economic Indicators for Southeastern Asia and the Pacific December 2018 Input Output Tables. Manila: ADB.
+1. Association of Southeast Asian Nations (ASEAN). (2016). Master Plan on ASEAN Connectivity 2025. Jakarta: ASEAN. Retrieved from: <https://asean.org/storage/2016/09/Master-Plan-on-ASEAN-Connectivity-20251.pdf/>.
+1. Association of Southeast Asian Nations (ASEAN). (2017). Investing in ASEAN 2017. Retrieved from: <https://asean.org/storage/2017/01/Investing-in-ASEAN-2017-.pdf/>.
+1. Bhattacharyay, Biswa Nath. (2009). Infrastructure Development for ASEAN Economic Integration. ADBI Working Paper, No. 138. Tokyo: Asian Development Bank Institute (ADBI).
+1. Eom, Tae Ho., Lee, Sock Hwan., and Xu, Hua. (2007). Chapter 32: Introduction to Panel Data Analysis: Concepts and Practices. Miller/Handbook of Research Methods in Public Administration AU5384_C032.
+1. Han, Xuehui., Su, Jiaqi., and Thia, Jang Ping. (2020). Impact of Infrastructure Investment on Developed and Developing Economies. <https://doi.org/10.1007/s10644-020-09287-4/>.
+1. Ismail, Normaz Wana., and Mahyideen, Jamilah Mohd. (2015). The Impact of Infrastructure on Trade and Economic Growth in Selected Economies in Asia. ADBI Working Paper, No. 553. Tokyo: Asian Development Bank Institute (ADBI).
+1. Karagiannis, Giannis., and Tzouvelekas, Vangelis. (2008).  Sectoral Linkages and Industrial Efficiency: A Dilemma or A Requisition in Identifying Development Priorities?. Ann Reg Sci (2010) 45:207–233. doi 10.1007/s00168-008-0280-5.
+1. Mendoza, Ronald U., Paras, Yla Gloria Marie P., and Bertulfo, Donald Jay. (2016). The Bataan Nuclear Power Plant in the Philippines: Lessons from a White Elephant Project. ASOG Working Paper 16-001.
+1. Novianti, Tanti., Rifin, Amzul., Panjaitan, Dian V., and Wahyu, Sri Retno. (2014). The Infrastructure's Influence on the Asean Countries' Economic Growth. Journal of Economics and Development Studies, Vol. 2, No. 4, pp. 243-254.
+1. PricewaterhouseCoopers (PwC). (2017). Understanding infrastructure opportunities in ASEAN Infrastructure Series Report 1. Singapore: PwC.
+1. Temursho, Umed. (2016). Backward and Forward Linkages and Key Sectors in the Kazakhstan Economy. Joint Program Government of Kazakhstan and ADB.
+1. World Economic Forum. (2014). The Global Competitiveness Report 2014–2015.
+1. Yoshino, Naoyuki., Hendriyetty, Nella., and Lakhia, Saloni. (2019). Quality Infrastructure Investment: Ways to Increase the Rate of Return for Infrastructure Investments. ADBI Working Paper, No. 932. Tokyo: Asian Development Bank Institute (ADBI).
