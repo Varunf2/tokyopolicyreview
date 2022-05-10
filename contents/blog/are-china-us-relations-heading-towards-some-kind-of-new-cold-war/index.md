@@ -125,7 +125,9 @@ As we see it today, often hearing testimonies about hotlines ringing out,(47) th
 
 Whether the U.S. and China are headed for a new Cold War or not is a topical issue that has come under much scrutiny and speculation. While the term may bring familiarity to the U.S.-China relationship today it is not helpful due to the complexity of relations. The Cold War was fundamentally a military confrontation between two superpowers with alliances aligned to each pole committed to a nuclear arms race and exporting of alternative modes of government via proxy wars, predominantly guided by realist theory. The U.S.-China relationship, in comparison, is more complicated and multidimensional. Presently, the competition is geo-economic but has slightly spilled over into the military dimension, despite neither side wishing for a Cold War. Though there is still room to (re)define the relationship, the likely trajectory will remain unmanaged strategic competition between each power if the nature of the relationship remains largely undefined. We will likely see greater tensions economically than we already do if differences in the rules of trade, intellectual property and the like are not resolved, which will result in great economic losses for both powers, and the world for that matter. This will also result in greater military tensions, another area that needs to be better defined to ensure escalations do not become conflicts. Rigorous diplomacy to define new trade rules and the establishment of an unambiguous strategic literacy between each power, thus, is sorely needed so as to avoid what could become something harder to manage than a Cold War – a simultaneous economic and military competition between two great powers.
 
----
+```text
+Jaydn will be completing his master's degree in public policy in The University of Tokyo this year. He is interested in the security of the Indo-Pacific region as well as ethical issues in international relations. Prior to entering graduate school, he completed an undergraduate degree in linguistics and international relations at Monash University.
+```
 
 ## REFERENCES
 

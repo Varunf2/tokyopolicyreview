@@ -1,6 +1,6 @@
 ---
 title: "Domestic Interests and China’s Foreign Policy in the Middle East"
-author: "Teoh Xin Yi"
+author: "Teoh Xinyi"
 date: "2022-05-06"
 cover: "zbynek-burival-GrmwVnVSSdU-unsplash.jpg"
 ---
@@ -48,6 +48,10 @@ Although this piece will not attempt to assess whether the BRI policy has been i
 ## CONCLUSION
 
 In conclusion, this piece aims to have accomplished two main objectives. Firstly, it sought to demonstrate that a conventional focus on China’s energy policy might be myopic, and insufficient for explaining Chinese behaviour in the Middle East. Next, I argued that China’s foreign policy in the Middle East might be more reflective of domestic issues; subsequent formulations of foreign policy also aimed to address domestic problems. Thus, a study of domestic concerns is perhaps more illuminative of China’s behaviour in the Middle East, highlighting some less publicly ostensible priorities and dynamics.
+
+```text
+Xinyi is a final year double degree undergraduate student at the National University of Singapore and Waseda University. She specialises in political science and has an interest in Chinese foreign policy. She will be working for the Singapore government after finishing her undergraduate studies.
+```
 
 ## REFERENCES
 
