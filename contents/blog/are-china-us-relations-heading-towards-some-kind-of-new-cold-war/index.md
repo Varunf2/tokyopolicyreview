@@ -7,41 +7,41 @@ cover: "gr-stocks-Iq9SaJezkOE-unsplash.jpg"
 
 ![chess game](./gr-stocks-Iq9SaJezkOE-unsplash.jpg)
 
-With the rise of China, journalists, academics and policy practitioners have invoked the old label “Cold War” to describe the strategic competition between the United States (U.S.) and China.(1)
+With the rise of China, journalists, academics and policy practitioners have invoked the old label “Cold War” to describe the strategic competition between the United States (U.S.) and China. <sup>1</sup>
 While the label may bring familiarity to simplify the complicated relationship that has emerged with China’s growing economic and military power in recent decades, we are actually experiencing something more complicated between the two powers that the label cannot fully capture. While some aspects of the Cold War are observable in the current U.S.-China competition, there are also elements that did not exist between the U.S. and the Soviet Union. The lack of a consistent and clear label, has resulted in “unmanaged” competition.
 
 ## THE CORE ELEMENTS OF THE COLD WAR: THE U.S. AND SOVIET UNION COMPETITION
 
-The Cold War was fundamentally a period of military competition between the two major powers, the U.S. and the Soviet Union, following the end of World War II in 1945 until the dissolution of the Soviet Union in 1991. Informed by realism, the two most powerful states formed policy out of power considerations.(2)
-Alliances were constructed out of power of balance/balance of threat considerations forming the post-war order between the Western capitalist bloc and Eastern socialist bloc, as well as trading relations.(3)
-This competition spilled over into intense proxy wars between these blocs for 45 years.(4)
-During this period, nuclear weapons were seen as the ultimate guarantee of security for states who possess them and for states under a respective bloc’s nuclear umbrella.(5)
+The Cold War was fundamentally a period of military competition between the two major powers, the U.S. and the Soviet Union, following the end of World War II in 1945 until the dissolution of the Soviet Union in 1991. Informed by realism, the two most powerful states formed policy out of power considerations.<sup>2</sup>
+Alliances were constructed out of power of balance/balance of threat considerations forming the post-war order between the Western capitalist bloc and Eastern socialist bloc, as well as trading relations.<sup>3</sup>
+This competition spilled over into intense proxy wars between these blocs for 45 years.<sup>4</sup>
+During this period, nuclear weapons were seen as the ultimate guarantee of security for states who possess them and for states under a respective bloc’s nuclear umbrella.<sup>5</sup>
 Fundamentally, these three elements defined the crux of the Cold War: Alliance formation, proxy wars and nuclear arms races.
 
 ## ALLIANCES
 
-Shortly after a cable was released by George Kennan detailing the motivations of the Soviet Union, President Harry Truman formed a containment policy to deter Soviet expansion.(6)
+Shortly after a cable was released by George Kennan detailing the motivations of the Soviet Union, President Harry Truman formed a containment policy to deter Soviet expansion.<sup>6</sup>
 Two blocs, the Western bloc headed by the U.S., and the Eastern bloc aligned with the Soviet Union, formed the new bipolar post-war order militarily and ideologically.
 The U.S. generally supported liberal democratic states and the Soviet Union generally supported left-wing or Marxist-Leninist states.
-The U.S. formed the North American Treaty Organisation (NATO) military alliance structure in 1949 to deter Soviet expansionism.(7)
-The Soviet Union, on the other hand, formed the Warsaw Pact establishing satellite states in the East bloc in 1955 to repel NATO.(8)
-Here, the alliance structures of both powers resulted in fierce military competition and the formation of separate trade blocs where the two sides shared little or no interdependence between each other.(9)
+The U.S. formed the North American Treaty Organisation (NATO) military alliance structure in 1949 to deter Soviet expansionism.<sup>7</sup>
+The Soviet Union, on the other hand, formed the Warsaw Pact establishing satellite states in the East bloc in 1955 to repel NATO.<sup>8</sup>
+Here, the alliance structures of both powers resulted in fierce military competition and the formation of separate trade blocs where the two sides shared little or no interdependence between each other.<sup>9</sup>
 
 ### ARMS RACES
 
 As part of this military competition came along a tense nuclear arms race.
-At the height of the Cold War, there were 40,000 nuclear weapons in existence.(10)
-Fearful of the U.S.’s nuclear supremacy, the Soviet Union developed its own nuclear arsenal for survival and deterrence purposes.(11)
+At the height of the Cold War, there were 40,000 nuclear weapons in existence.<sup>10</sup>
+Fearful of the U.S.’s nuclear supremacy, the Soviet Union developed its own nuclear arsenal for survival and deterrence purposes.<sup>11</sup>
 By 1949, the Soviets managed to develop their own nuclear arsenal sparking an arms race. Both powers worked to expand their nuclear stockpile to gain a competitive edge over the other placing missiles aimed at the other bloc.
-This resulted in a security dilemma, which culminated in the Cuban Missile Crisis 1962.(12)
+This resulted in a security dilemma, which culminated in the Cuban Missile Crisis 1962.<sup>12</sup>
 This characterised much of the Cold War, a fierce competition for nuclear supremacy between the Western and Eastern poles.
 
 ### PROXY WARS
 
-While the advent of nuclear weapons rendered direct conflict virtually impossible, both the U.S. and the Soviet Union found themselves embroiled in proxy wars to vie for influence in contested regions.(13)
+While the advent of nuclear weapons rendered direct conflict virtually impossible, both the U.S. and the Soviet Union found themselves embroiled in proxy wars to vie for influence in contested regions.<sup>13</sup>
 For much of the Cold War, both the U.S. and Soviet camps fought proxy wars in the East Asian theatre. For example, the first proxy war fought between the two poles was on the Korean Peninsula from 1950 to 1953 which bifurcated Korea into the East-backed North and the West-backed South.
 The East and West blocs were similarly involved in the Vietnam War with the East and West block supporting the North and South Vietnamese allies respectively which lasted until 1975 after the fall of Saigon.
-Not only did the two powers find themselves in the Southeast Asian theatre, they also found themselves involved in other proxy wars in much of the Third World, specifically in Africa as, well as in Afghanistan supporting communist or liberal democratic forms of government by supplying aid and arming insurgent forces.(14)
+Not only did the two powers find themselves in the Southeast Asian theatre, they also found themselves involved in other proxy wars in much of the Third World, specifically in Africa as, well as in Afghanistan supporting communist or liberal democratic forms of government by supplying aid and arming insurgent forces.<sup>14</sup>
 
 As we can see, the Cold War was fundamentally was a military competition between each respective great power – the U.S. and the Soviet Union.
 Friends and enemies based on ideological alignments were well defined, as well as trading relations.
@@ -58,39 +58,39 @@ The criteria established above will be used to evaluate whether the U.S. and Chi
 In anticipation of the analysis, the term “Cold War” fails to capture today’s relationship between the U.S. and China because it is more complicated than that of the U.S. and the Soviet Union.
 
 First of all, the U.S.-China relationship has a significant geo-economic dimension, something the Cold War did not feature.
-Both countries went virtually from no trading relations during the Cold War to vast economic interdependence when they re-established diplomatic relations in January 1979.(15)
-In 1980, bilateral trade approximately totaled $4 billion, whereas in 2017, bilateral trade totaled $636 billion(16),  making China one of the most important trading partners for the U.S. and vice versa.
-Now, China has grown so large it has surpassed the U.S. in purchasing power parity (PPP) terms, representing a shift in power globally creating a source of tension between the U.S. and China.(17)
-As a result, the Trump administration initiated a trade war with China, imposing tariffs on an array of Chinese exports, such as steel,(18)  and targeted telecommunications companies, namely Huawei from entering the U.S. market.(19)
-Since this intervention, Chinese exports to the U.S. has decreased by 12.5 percent in 2019, and Chinese foreign direct investment in the U.S. has decreased by 90 percent between 2016 and 2018, resulting in substantial mutual losses.(20)
+Both countries went virtually from no trading relations during the Cold War to vast economic interdependence when they re-established diplomatic relations in January 1979.<sup>15</sup>
+In 1980, bilateral trade approximately totaled $4 billion, whereas in 2017, bilateral trade totaled $636 billion<sup>16</sup>,  making China one of the most important trading partners for the U.S. and vice versa.
+Now, China has grown so large it has surpassed the U.S. in purchasing power parity (PPP) terms, representing a shift in power globally creating a source of tension between the U.S. and China.<sup>17</sup>
+As a result, the Trump administration initiated a trade war with China, imposing tariffs on an array of Chinese exports, such as steel<sup>18</sup>,  and targeted telecommunications companies, namely Huawei from entering the U.S. market.<sup>19</sup>
+Since this intervention, Chinese exports to the U.S. has decreased by 12.5 percent in 2019, and Chinese foreign direct investment in the U.S. has decreased by 90 percent between 2016 and 2018, resulting in substantial mutual losses.<sup>20</sup>
 This could very well continue on making the U.S.-China relationship more strained than it already is by hurting each countries’ mutual economic interests to a significant degree. Nonetheless, the U.S.-China competition is primarily about geoeconomics.
 
-While the source of tension is economic, the U.S. and Chinese economic competition has started to take on a military dimension. There is evidence of a nuclear and hypersonic arms race developing by China. A report from the New York Times stated that the Pentagon thinks China could expand its nuclear arsenal and hypersonic missiles to up to 1000 warheads by 2030, tripling its current arsenal.(21)
-In addition, China has also increased its naval arms overtaking the U.S. in terms of fleet numbers.(22)
-In response, the U.S. has also found itself developing hypersonic missiles as a result of China’s expansion of its arsenal.(23)
-It has also been assisting other middle powers like Australia to develop their own hypersonic missile industry and more recently announced on September 15, 2021 that it would assist Australia to acquire nuclear submarines.(24)
+While the source of tension is economic, the U.S. and Chinese economic competition has started to take on a military dimension. There is evidence of a nuclear and hypersonic arms race developing by China. A report from the New York Times stated that the Pentagon thinks China could expand its nuclear arsenal and hypersonic missiles to up to 1000 warheads by 2030, tripling its current arsenal.<sup>21</sup>
+In addition, China has also increased its naval arms overtaking the U.S. in terms of fleet numbers.<sup>22</sup>
+In response, the U.S. has also found itself developing hypersonic missiles as a result of China’s expansion of its arsenal.<sup>23</sup>
+It has also been assisting other middle powers like Australia to develop their own hypersonic missile industry and more recently announced on September 15, 2021 that it would assist Australia to acquire nuclear submarines.<sup>24</sup>
 Therefore, it is arguable that there are signs for escalating arms races and naval build-up, characteristic of the Cold War.  
 
 In response to China’s rise, the U.S. has formed some security dialogues, such as the Quad with Japan, Australia and India.
-China perceiving it as a coalition of containment, the U.S. denies that containing China’s rise is the purpose of the Quad like the U.S. did during the Cold War by establishing the NATO alliance to deter the Soviet Union.(25)
-President Biden himself stated at the 76th Session of the United Nations General Assembly on September 2021 that “we are not seeking a new Cold War or a world divided into rigid blocs."(26)
-China, too, has rejected “strategic competition.”(27)
+China perceiving it as a coalition of containment, the U.S. denies that containing China’s rise is the purpose of the Quad like the U.S. did during the Cold War by establishing the NATO alliance to deter the Soviet Union.<sup>25</sup>
+President Biden himself stated at the 76th Session of the United Nations General Assembly on September 2021 that “we are not seeking a new Cold War or a world divided into rigid blocs."<sup>26</sup>
+China, too, has rejected “strategic competition.”<sup>27</sup>
 As we can see, both powers deny they wish for a “Cold War.”
-Moreover, unlike the Cold War, no side harbour aggressive intentions against each other.(28)
+Moreover, unlike the Cold War, no side harbour aggressive intentions against each other.<sup>28</sup>
 
 Nor does China pose any real ideological challenge to the West.
-While the Trump administration’s National Security Strategy (NSS) contended that “China seeks to displace the United States in the Indo-Pacific region, expand the reaches of its state driven-economic model, and reorder the region in its fashion,” it is not a serious challenger to the current liberal world order.(29)
-China has not proffered a different vision of power relations to be enshrined in international law to change the current power dynamics based on sovereignty, as seen in the UN Charter.(30)
-Furthermore, as Oriana Skylar Mastro argues, China has “no interest in establishing a web of global alliances, sustaining a far-flung global military presence, sending troops thousands of miles from its borders, leading international institutions that would constrain its own behaviour, or spreading its system of government abroad.”(31)
-This is unlike the Cold War where both poles fought to export their styles of government through forming alliances, sustaining a global military presence. In addition, we do not see China attempting to export its system of governance,(32)  nor are there any prospects at proxy wars between the two powers at this moment.
+While the Trump administration’s National Security Strategy (NSS) contended that “China seeks to displace the United States in the Indo-Pacific region, expand the reaches of its state driven-economic model, and reorder the region in its fashion,” it is not a serious challenger to the current liberal world order.<sup>29</sup>
+China has not proffered a different vision of power relations to be enshrined in international law to change the current power dynamics based on sovereignty, as seen in the UN Charter.<sup>30</sup>
+Furthermore, as Oriana Skylar Mastro argues, China has “no interest in establishing a web of global alliances, sustaining a far-flung global military presence, sending troops thousands of miles from its borders, leading international institutions that would constrain its own behaviour, or spreading its system of government abroad.”<sup>31</sup>
+This is unlike the Cold War where both poles fought to export their styles of government through forming alliances, sustaining a global military presence. In addition, we do not see China attempting to export its system of governance<sup>32</sup>,  nor are there any prospects at proxy wars between the two powers at this moment.
 
-For the time being, we are not seeing the U.S. and China heading for a Cold War in the classical sense of the word. In saying that, perhaps we could see a greater complexity emerge than what was observed during the Cold War because of the economic losses for both sides that military tensions bring with it. As Joseph Nye Jr argues, the Cold War analogy is “lazy” and “dangerous.”(33)
+For the time being, we are not seeing the U.S. and China heading for a Cold War in the classical sense of the word. In saying that, perhaps we could see a greater complexity emerge than what was observed during the Cold War because of the economic losses for both sides that military tensions bring with it. As Joseph Nye Jr argues, the Cold War analogy is “lazy” and “dangerous.”<sup>33</sup>
 As he argues, if anything, the issue with China is threefold what it was with the Soviet Union.
-During the Cold War, the Soviet Union and the U.S. were delineated as military enemies to each other going so far as being called an ideological threat to each other.(34)
-In essence, competition was primarily military in nature with ideological undertones.(35)
-The two powers almost had no economic or social connection, making containment a feasible policy.(36)
-The current predicament with China, Nye argues, is three-dimensional and far more complex.(37)
-With China, he says “features a distribution of power at each level – military, economic and social – not just one.”(38)
+During the Cold War, the Soviet Union and the U.S. were delineated as military enemies to each other going so far as being called an ideological threat to each other.<sup>34</sup>
+In essence, competition was primarily military in nature with ideological undertones.<sup>35</sup>
+The two powers almost had no economic or social connection, making containment a feasible policy.<sup>36</sup>
+The current predicament with China, Nye argues, is three-dimensional and far more complex.<sup>37</sup>
+With China, he says “features a distribution of power at each level – military, economic and social – not just one.”<sup>38</sup>
 For now, however, we cannot call it a Cold War based on the realist criterion.
 Instead, it could very well become something even worse than a Cold War.
 In any case, the relationship needs to be better defined before economic tensions spillover more than they already have into the military dimension, which remains currently unmanaged and undefined.  
@@ -100,26 +100,26 @@ In any case, the relationship needs to be better defined before economic tension
 This begs the question of what we should call the U.S.-China relationship in the first place.
 Neither power neither knows where they stand relative to each other nor where the red lines are, keeping many aspects of the relationship undefined.
 The relationship is currently defined as “strategic competition” under the Trump administration.
-The same term has now been carried over under the Biden administration.(39)
-What this exactly means, Cornell Overfield argues, remains vague and basically undefined.(40)
-Indeed, in 2019, Jake Sullivan and Kurt Campbell, both now serving the Biden administration in senior policy making positions, noted that “foreign policy frameworks beginning with the word ‘strategic’ often raise more questions than they answer.”(41)
+The same term has now been carried over under the Biden administration.<sup>39</sup>
+What this exactly means, Cornell Overfield argues, remains vague and basically undefined.<sup>40</sup>
+Indeed, in 2019, Jake Sullivan and Kurt Campbell, both now serving the Biden administration in senior policy making positions, noted that “foreign policy frameworks beginning with the word ‘strategic’ often raise more questions than they answer.”<sup>41</sup>
 This makes policy prescriptions difficult where it is needed most in relation to a rising peer competitor.
-It also doesn’t help with the obstruction of key positions being filled when they are most needed for managing the relationship with China.(42)
-Therefore, we need to gauge more sophisticated frameworks that capture the nuance of U.S.-China competition, instead of relying on old concepts that may sound familiar.(43)
-If anything, what is in store for China’s rise will be much more complicated as Nye has argued.(44)
-We cannot tell for certain where we are headed if we do not define the relationship, which is sorely needed.(45)
+It also doesn’t help with the obstruction of key positions being filled when they are most needed for managing the relationship with China.<sup>42</sup>
+Therefore, we need to gauge more sophisticated frameworks that capture the nuance of U.S.-China competition, instead of relying on old concepts that may sound familiar.<sup>43</sup>
+If anything, what is in store for China’s rise will be much more complicated as Nye has argued.<sup>44</sup>
+We cannot tell for certain where we are headed if we do not define the relationship, which is sorely needed.<sup>45</sup>
 But Kevin Rudd has proposed “managed strategic competition” as the necessary path forward considering current material conditions.
 As he states, this proposal is rooted in a deeply realist view of the world but aims to manage risks before escalating into open conflict starting from these basic principles.
 The U.S. and China should:
 
 1. Agree on principles and procedures for navigating each other’s strategic redlines (for example, over Taiwan) that, if inadvertently crossed, would likely result in military escalation.
 1. Mutually identify the areas of nonlethal national security policy—foreign policy, economic policy, technology development (for example, over semiconductors) —and ideology where full-blown strategic competition is accepted as the new normal.
-1. Define those areas where continued strategic cooperation (for example, on climate change) is both recognized and encouraged.(46)
+1. Define those areas where continued strategic cooperation (for example, on climate change) is both recognized and encouraged.<sup>46</sup>
 
 While it may be an unpleasant view of the world, it would at least define the relationship and keep the competition bounded.
 It would also require serious institutional changes and measures to be put in place to manage the relationship on both sides, but especially for the U.S.
 The two powers are too enmeshed to completely decouple so managed strategic competition is how the relationship should be conceived under real world conditions, if both powers choose to be responsible about global security. 
-As we see it today, often hearing testimonies about hotlines ringing out,(47) the most likely relationship is the continuation of unmanaged strategic competition.
+As we see it today, often hearing testimonies about hotlines ringing out<sup>47</sup>, the most likely relationship is the continuation of unmanaged strategic competition.
 
 ## CONCLUSION: WORSE THAN A COLD WAR?
 
