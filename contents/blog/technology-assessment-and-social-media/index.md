@@ -96,12 +96,10 @@ Michael Medina is currently pursuing a Master’s Degree in Public Policy at the
 
 1. Al Jazeera. “US FTC Says It's Watching Twitter with 'Deep Concern'.” Business and Economy News | Al Jazeera, Al Jazeera Media Network, 10 Nov. 2022, https://www.aljazeera.com/economy/2022/11/10/us-ftc-says-its-watching-twitter-with-deep-concern. 
 2. Birnbaum, Emily. “Elon Musk Agrees to Restore Twitter Content-Moderation Tools This Week (TWTR).” Bloomberg.com, Bloomberg L.P., 2 Nov. 2022, https://www.bloomberg.com/news/articles/2022-11-02/musk-agrees-to-restore-twitter-content-moderation-tools-this-week.  
-3. Che, Jenny. “Elon Musk Has to Add Twitter Moderators in Europe, Commissioner Says.” Bloomberg.com, Bloomberg L.P., 18 Nov. 2022,
-https://www.bloomberg.com/news/articles/2022-11-18/musk-has-to-add-twitter-moderators-in-europe-commissioner-says?leadSource=uverify+wall.  
-4. Gibson, Kate. “NAACP and ADL Call for Twitter Ad Boycott after Musk Reinstates Trump.” CBS News, CBS Interactive, 22 Nov. 2022, https://www.cbsnews.com/news/twitter-elon-musk-donald-trump-naacp-adl-ad-boycott/. 
+3. Che, Jenny. “Elon Musk Has to Add Twitter Moderators in Europe, Commissioner Says.” Bloomberg.com, Bloomberg L.P., 18 Nov. 2022, https://www.bloomberg.com/news/articles/2022-11-18/musk-has-to-add-twitter-moderators-in-europe-commissioner-says?leadSource=uverify+wall.  
+4. Gibson, Kate. “NAACP and ADL Call for Twitter Ad Boycott after Musk Reinstates Trump.” CBS News, CBS Interactive, 22 Nov. 2022, https://www.cbsnews.com/news/twitter-elon-musk-donald-trump-naacp-adl-ad-boycott/ 
 5. Griffith, Erin. “For Many, Elon Musk's Buying Twitter Is a Moment of Celebration.” The New York Times, The New York Times, 28 Oct. 2022, https://www.nytimes.com/2022/10/28/technology/musk-twitter-supporters.html. 
-6. Guston, David H., and Sarewitz, Daniel. “Real-time technology assessment.” Technology in
-Science, vol. 24., 2002, pp. 93-109.
+6. Guston, David H., and Sarewitz, Daniel. “Real-time technology assessment.” Technology in Science, vol. 24., 2002, pp. 93-109.
 7. Hubbard, Halisia. “Twitter Has Lost 50 of Its Top 100 Advertisers since Elon Musk Took over, Report Says.” NPR, NPR, 25 Nov. 2022, https://www.npr.org/2022/11/25/1139180002/twitter-loses-50-top-advertisers-elon-musk.  
 8. Jackson, Sarah. “Elon Musk Launches New Twitter Poll on Whether to Allow Suspended Users Back after He Reinstated Trump's Account Based on Another Poll.” Business Insider, Insider Inc., 24 Nov. 2022, https://www.businessinsider.com/elon-musk-runs-twitter-poll-suspended-accounts-2022-11. 
 9. Klar, Rebecca. “Senate Democrats Ask FTC to Investigate Twitter after 'Alarming Steps' by Musk.” The Hill, The Hill: Nexstar Media Inc., 17 Nov. 2022, https://thehill.com/policy/technology/3740673-senate-democrats-ask-ftc-to-investigate-twitter-after-alarming-steps-by-musk/. 
